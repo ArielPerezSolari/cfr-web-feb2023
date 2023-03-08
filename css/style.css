@@ -433,7 +433,7 @@ footer {
 /* Style the front side (fallback if image is missing) */
 
 .flip-card-front {
-    background: linear-gradient(-45deg, #22497e, #6384a3, #1e4d5e, #0f1225);
+    background: linear-gradient(-45deg, #22497e, #234c72, #1e4d5e, #0f1225);
     background-size: 400% 400%;
     animation: gradient 15s ease infinite;
     color: rgb(255, 255, 255);
