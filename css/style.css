@@ -45,7 +45,7 @@ header {
     align-items: center;
     flex-wrap: wrap;
     height: 100vh;
-    background: linear-gradient(-45deg, #3c34cd, #0d0d0e, #23a6d5, #0f1225);
+    background: linear-gradient(-45deg, #22497e, #0d0d0e, #206680, #0f1225);
     background-size: 400% 400%;
     animation: gradient 15s ease infinite;
     color: aliceblue;
@@ -270,7 +270,7 @@ footer {
 
 .servicios-text p {
     margin-top: 14px;
-    font-size: 14px;
+    font-size: 20px;
 }
 
 .servicios-text2 {
@@ -283,20 +283,23 @@ footer {
 }
 
 .servicios-text2 h2 {
-    font-size: 26px;
+
+    font-size: 30px;
 }
 
 .servicios-text2 h3 {
-    font-size: 24px;
+    align-self: center;
+    font-size: 30px;
 }
 
 .servicios-text2 h4 {
-    font-size: 20px;
+    align-self: center;
+    font-size: 30px;
     color: #e6d15e;
 }
 
 .servicios-text2 p {
-    font-size: 14px;
+    font-size: 20px;
 }
 
 .video1 {
@@ -430,7 +433,7 @@ footer {
 /* Style the front side (fallback if image is missing) */
 
 .flip-card-front {
-    background: linear-gradient(-45deg, #22497e, #0f0fa8, #1e4d5e, #0f1225);
+    background: linear-gradient(-45deg, #22497e, #6384a3, #1e4d5e, #0f1225);
     background-size: 400% 400%;
     animation: gradient 15s ease infinite;
     color: rgb(255, 255, 255);
@@ -442,7 +445,7 @@ footer {
 
 .flip-card-back {
     padding: 15px;
-    background: linear-gradient(-45deg, #393535, #3f3e3e, #206680, #19233b);
+    background: linear-gradient(-45deg, #22497e, #6384a3, #1e4d5e, #077485);
     background-size: 400% 400%;
     animation: gradient 15s ease infinite;
     transform: rotateY(180deg);
