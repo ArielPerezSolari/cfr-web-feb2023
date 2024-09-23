@@ -65,7 +65,7 @@ header {
 }
 
 .valores-brand img {
-    height: 30%;
+    height: 25%;
     margin: 20px;
 }
 
@@ -549,4 +549,8 @@ footer {
     padding: 10px;
     border-radius: 10px;
     border: 2px solid rgb(193, 193, 193);
+}
+
+.ten-years-title {
+    margin: 24px;
 }
